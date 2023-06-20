@@ -7,7 +7,7 @@
 <h3>Tech Stack used in doing this project</h3>
 
 <p align = "center">
-<img src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/HTML.png" alt="html" width="55" height="55"/>
+
 <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" width="50" height="55"/>
 <img src="https://cdn.iconscout.com/icon/free/png-512/free-react-1-282599.png?f=avif&w=256" alt="Ract" width="50" height="50"/>
 <img src="https://cdn.iconscout.com/icon/free/png-512/free-node-js-3-1174937.png?f=avif&w=256" alt="nodejs" width="50" height="50"/>
