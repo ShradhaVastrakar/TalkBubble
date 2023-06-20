@@ -1,4 +1,4 @@
-                                                         <h1>Talk Bubble</h1>
+<h1>Talk Bubble</h1>
   
 <p>Talkbubble is a chat application that makes it easy to communicate with people anywhere in the world by sending and receiving messages in real time. Users are able to receive the same engaging and lively interactions through custom messaging features, just as they would in person.
 </p>
