@@ -45,7 +45,7 @@ http://localhost:3000
 - POST /setavatar/:id
 - GET /logout/:id
 
-<p>Screen shots of the peoject</p>
+<p>Screen shots of the project</p>
 
 
 ![Screenshot (278)](https://github.com/ShradhaVastrakar/TalkBubble/assets/115460277/81c09497-861a-4de3-9bd4-6fb9477df662)
